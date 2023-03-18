@@ -1,0 +1,24 @@
+body
+{
+	text-align: center;
+	background-color: darkmagenta;
+	color: ghostwhite;
+	font-family: 'Lobster', cursive;
+}
+span
+{
+	font-size: 18px;
+	color:ghostwhite;
+}
+canvas
+{
+	background: darkmagenta;
+	border-radius: 20px;
+	border: 5px solid  white ;
+	box-shadow: 5px 5px 38px white ;
+    
+}
+#start_button{
+	background-color: ghostwhite;
+	color: black;
+}
